@@ -1,2 +1,2 @@
 # blockchain
-labs for blockchain course
+labs for blockchain course **NUST MISIS 2026**
